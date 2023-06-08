@@ -36,3 +36,47 @@
     transform: rotate(360deg);
   }
 }
+
+.buttonCSS{
+  margin-right: 4px !important;
+}
+.main-div{
+  position: fixed;
+  top: 23%;
+  left: 36%;
+  width: 900px;
+  height: 687px;
+  margin-top: -9em;
+  margin-left: -15em;
+  border: 1px solid #ccc;
+  background-color: #f3f3f3;
+}
+.landing-page{
+  text-align: center;
+  margin-top: 310px;
+}
+.center{
+  text-align: center;
+  margin: 0 auto;
+}
+.buttonsPreNext{
+  margin: 20px;
+}
+.left-button{
+  float: left;
+}
+.right-button{
+  float: right;
+}
+.theme-page{
+  text-align: center;
+  margin-top: 200px;
+}
+.radio-container{
+  margin: 0 40px;
+}
+.person-page{
+  margin: 40px;
+    text-align: center;
+    font-size: 24px;
+}

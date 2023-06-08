@@ -1,0 +1,29 @@
+.themeCSS{
+    width: 300px;
+}
+.result-div{
+    border: 1px solid blue;
+    width: 331px;
+    padding: 20px;
+    margin: 20px auto;
+}
+.scroll-div{
+    height: 466px;
+    overflow-y: scroll;
+}
+.center{
+    text-align: centre;
+}
+.scroll-div{
+    overflow-y: scroll;
+    height: 500px;
+    margin: 50px;
+    text-align: center;
+}
+.item-css{
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
